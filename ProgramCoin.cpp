@@ -10,7 +10,7 @@ const int QUARTER_VALUE = 25; // Stores the value of a quarter in pennies
 const int DIME_VALUE = 10;    // Stores the value of a dime in pennies.
 const int NICKEL_VALUE = 5;   // Stores the value of a nickel in pennies.
     
-    
+          
 int RunAgain =1;
         while (RunAgain == 1) {
         //RunAgain Controls if the program repeats.
